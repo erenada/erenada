@@ -5,7 +5,9 @@ I am a computational biologist at Harvard Medical School, Department of Immunolo
 #### Github metrics
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" />
+  <a href="https://github.com/erenada">
+    <img src="github-metrics.svg" alt="Metrics" />
+  </a>
 </div>
 
 ---
