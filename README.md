@@ -4,7 +4,9 @@ I am a computational biologist at Harvard Medical School, Department of Immunolo
 
 #### Github metrics
 
-![Metrics](github-metrics.svg)
+<div align="center">
+  <img src="github-metrics.svg" alt="Metrics" />
+</div>
 
 ---
 *Last updated: 06/15/2025* 
