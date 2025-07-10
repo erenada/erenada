@@ -6,7 +6,7 @@ I am a computational biologist at Harvard Medical School, Department of Immunolo
 
 <div align="center">
   <a href="https://github.com/erenada">
-    <img src="https://metrics.lecoq.io/erenada" alt="Metrics" />
+    <img src="github-metrics.svg" alt="Metrics" />
   </a>
 </div>
 
