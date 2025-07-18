@@ -48,6 +48,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_repositories: yes
+          plugin_notable_self: yes
           
           # Achievements
           plugin_achievements: yes
